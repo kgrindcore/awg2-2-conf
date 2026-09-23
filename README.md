@@ -1,7 +1,5 @@
-# awg2-2-conf
-Python3 Converter from vpn:// to .conf
-
 # amnezia2conf
+Python3 Converter from vpn:// to .conf
 
 Конвертер ключей AmneziaVPN (`vpn://...`) в обычный `.conf` файл WireGuard / AmneziaWG, который можно импортировать в роутер Keenetic / Netcraze как клиентское подключение WireGuard.
 
