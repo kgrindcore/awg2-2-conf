@@ -4,8 +4,8 @@
 пригодный для импорта в Keenetic / Netcraze.
 
 Использование:
-    python amnezia2conf.py alex.vpn -o alex.conf
-    python amnezia2conf.py alex.vpn --dump-json    # показать расшифрованный JSON
+    python amnezia2conf.py client.vpn -o client.conf
+    python amnezia2conf.py client.vpn --dump-json    # показать расшифрованный JSON
 """
 import argparse
 import base64
